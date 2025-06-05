@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f0yBKHDzpdiWJMIwdhHmmH3UG3sJ3gKAKkwwW+6G5ak=",
+  "Source": "ReportModerationService",
+  "BasePath": "_content/ReportModerationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
